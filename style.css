@@ -37,3 +37,93 @@ html, body, canvas {
 }
 
 
+@font-face {
+	font-family: 'poppins-blackitalic';
+	src: url('fonts/poppins-blackitalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'poppins-bold';
+	src: url('fonts/poppins-bold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'poppins-bolditalic';
+	src: url('fonts/poppins-bolditalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'poppins-extrabold';
+	src: url('fonts/poppins-extrabold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'poppins-extrabolditalic';
+	src: url('fonts/poppins-extrabolditalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'poppins-black';
+	src: url('fonts/poppins-black.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'poppins-regular';
+	src: url('fonts/poppins-regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'poppins-thin';
+	src: url('fonts/poppins-thin.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'poppins-light';
+	src: url('fonts/poppins-light.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'poppins-semibolditalic';
+	src: url('fonts/poppins-semibolditalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'poppins-extralightitalic';
+	src: url('fonts/poppins-extralightitalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'poppins-medium';
+	src: url('fonts/poppins-medium.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'poppins-lightitalic';
+	src: url('fonts/poppins-lightitalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'poppins-italic';
+	src: url('fonts/poppins-italic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'poppins-mediumitalic';
+	src: url('fonts/poppins-mediumitalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'poppins-thinitalic';
+	src: url('fonts/poppins-thinitalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'poppins-extralight';
+	src: url('fonts/poppins-extralight.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'poppins-semibold';
+	src: url('fonts/poppins-semibold.ttf') format('truetype');
+}
+
